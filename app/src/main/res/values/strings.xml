@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListGameData</string>
+    <string name="strAppName">Application Name</string>
+    <string name="strDownload">Download</string>
+    <string name="strNoOfDownload">No Of Download</string>
+    <string name="strNoInternet">Internet not available</string>
+    <string name="strLoading">Loading</string>
+    <string name="strSuccess">Success</string>
+    <string name="strPOPULARGAMES">POPULAR GAMES</string>
+    <string name="strGameDataListNotAvailable">No Previous Save Detected</string>
+</resources>
